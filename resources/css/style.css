@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+}
+
+img, video {
+    display:block;
+    margin:auto;
+    border-color: black;
+}
+p, footer {
+    color:darkgray;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+}
+
+a {
+    color:rgb(29, 167, 167);
+    text-align: center;
+}
+
+footer p {
+    text-align: right;
+}
+
